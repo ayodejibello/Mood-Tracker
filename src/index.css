@@ -1,0 +1,10 @@
+@import "tailwindcss";
+* {
+  font-family: poppins, calibri, sans-serif;
+}
+.container {
+  scrollbar-width: none;
+}
+.container:hover {
+  scrollbar-width: thin;
+}
